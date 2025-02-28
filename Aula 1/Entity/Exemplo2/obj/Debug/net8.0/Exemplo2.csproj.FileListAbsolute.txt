@@ -117,3 +117,4 @@ C:\Users\kauavicente\Documents\Aulas C#\Backend-Digix\Aula 1\Entity\Exemplo2\obj
 C:\Users\kauavicente\Documents\Aulas C#\Backend-Digix\Aula 1\Entity\Exemplo2\obj\Debug\net8.0\Exemplo2.pdb
 C:\Users\kauavicente\Documents\Aulas C#\Backend-Digix\Aula 1\Entity\Exemplo2\obj\Debug\net8.0\Exemplo2.genruntimeconfig.cache
 C:\Users\kauavicente\Documents\Aulas C#\Backend-Digix\Aula 1\Entity\Exemplo2\obj\Debug\net8.0\ref\Exemplo2.dll
+c:\Users\kauavicente\Documents\Aulas C#\Backend-Digix\Aula 1\Entity\Exemplo2\bin\Debug\net8.0\Dapper.dll
